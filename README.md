@@ -1,4 +1,4 @@
-aldkit
+Nanopinta
 ======
 
-The software for nanobakers ALD kit
+The software for Nanopinta ALD platform. Based on Python Django.
